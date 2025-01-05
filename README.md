@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Apoorva Singh</h1>
 <h3 align="center">MERN Stack Developer | UI/UX Enthusiast | Building Real-World Solutions</h3>
-<center></center><img alt="coding" width="400" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAd/new-game-ahagon-umiko-programming.gif"></center>
+<center>><img alt="coding" width="400" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAd/new-game-ahagon-umiko-programming.gif"></center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apoorwa1122&label=Profile%20views&color=0e75b6&style=flat" alt="apoorwa1122" /> </p>
 
